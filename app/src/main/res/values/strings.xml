@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="head_text">Home</string>
+    <string name="subtitle_text">Your Thoughts Go Inside</string>
+    <string name="title">Title</string>
+    <string name="entry">Write Your Entry Here</string>
+    <string name="submit">submit</string>
+    <string name="add">new</string>
+    <string name="toolbar_title">Home</string>
+    <string name="add_toolbar">Add Note</string>
+    <string name="update_toolbar">Update Note</string>
+</resources>
